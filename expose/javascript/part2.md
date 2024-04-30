@@ -96,3 +96,22 @@
     === is the stricst equality operator, this checks both the value and type are equal or not.
     It does not perform tyope coercion so '2' === 2 will return false
     
+### 16. In part2-question16.js
+### 17. Functions
+    [2,4,6] will be the result. 
+    The "modifyArray" function will call "doSomething" for each element, due to the for loop.
+    "doSomething", will then return it after doubling it this will then be added to the newArr,
+    which will be returned once all elements are done. 
+### 18. In part2-question18.js
+
+### 19. printNums
+    1
+    4
+    3
+    2
+    First, 1 is logged into the console. 
+    After 1000 milliseconds 2 is logged onto the console which is why it comes last.
+    3 is logged on after 0 milliseconds it comes third since
+    4 is immediately logged on to the console appearing after 1.
+    
+    
