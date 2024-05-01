@@ -47,9 +47,10 @@
     0:50
     1:100
     2:150
-### 9. Multiple Errors
+### 9. Reference Error
+     For the i, it will print out a Reference error because since i is defined using let its scope
+     is only the for loop, trying to print it outside the for loop will give us an error.
     
-
 ### 10. Length
     3
     This is printed since the length is defined as a constant and the intial value given to it is the value of the
